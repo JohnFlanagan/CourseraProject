@@ -59,16 +59,16 @@ FFT.....| numeric (-1:+1) | Fast Fourier Transform of Measurement obtained (see 
 
 Each measurement is reported in 3 axes, X, Y and Z (final letter of each variable)
 
-*TimeBodyAcceleration - Body acceleration time
-*TimeGravityAcceleration - Gravity acceleration time
-*TimeBodyAccelerationJerk - Derivation of Body acceleration time
-*TimeBodyGyro - Body gyroscope time
-*TimeBodyGyroJerk - Derivation of Body gyroscope time
-*FFTBodyAcceleration - Fast Fourier Transform of Body acceleration time
-*FFTBodyAccelerationMeanFrequency - Weighted average of the frequency components following the FFT of the Body acceleration time
-*FFTGyroMean - Fast Fourier Transform of Body gyroscope time
-*FFTBodyAccelerationMagnitudeMean - Weighted average of the FFT of the Body acceleration time
-*FFTBodyAccelerationMagnitudeMeanFrequency - Weighted average of the frequency components following the FFT of the Body acceleration time
-*FFTGyroMagnitude - Fast Fourier Transform of Body gyroscope magnitude
-*FFTGyroJerkMagnitude - Derivation of the Fast Fourier Transform of Body gyroscope magnitude
-*FFTGyroJerkMagnitudeMeanFrequency - Weighted average of the frequency components following the FFT of the Fast Fourier Transform of Body gyroscope magnitude
+* TimeBodyAcceleration - Body acceleration time
+* TimeGravityAcceleration - Gravity acceleration time
+* TimeBodyAccelerationJerk - Derivation of Body acceleration time
+* TimeBodyGyro - Body gyroscope time
+* TimeBodyGyroJerk - Derivation of Body gyroscope time
+* FFTBodyAcceleration - Fast Fourier Transform of Body acceleration time
+* FFTBodyAccelerationMeanFrequency - Weighted average of the frequency components following the FFT of the Body acceleration time
+* FFTGyroMean - Fast Fourier Transform of Body gyroscope time
+* FFTBodyAccelerationMagnitudeMean - Weighted average of the FFT of the Body acceleration time
+* FFTBodyAccelerationMagnitudeMeanFrequency - Weighted average of the frequency components following the FFT of the Body acceleration time
+* FFTGyroMagnitude - Fast Fourier Transform of Body gyroscope magnitude
+* FFTGyroJerkMagnitude - Derivation of the Fast Fourier Transform of Body gyroscope magnitude
+* FFTGyroJerkMagnitudeMeanFrequency - Weighted average of the frequency components following the FFT of the Fast Fourier Transform of Body gyroscope magnitude     
